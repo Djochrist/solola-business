@@ -61,7 +61,7 @@ export function Navbar({ page, setPage }: NavbarProps) {
 
           {/* CTA Button */}
           <a
-            href="https://wa.me/2348124026524"
+            href="https://wa.me/243812402652"
             target="_blank"
             rel="noopener noreferrer"
             className="flex-shrink-0 flex items-center gap-2 bg-[#1B2A4A] hover:bg-[#243860] text-white text-sm font-semibold px-4 py-2 rounded-md transition-colors"
