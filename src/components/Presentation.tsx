@@ -1,4 +1,4 @@
-const WA = '2348124026524';
+const WA = '243812402652';
 
 // Unified social icon color: navy on white background, consistent across all 3
 const SOCIAL_LINKS = [
