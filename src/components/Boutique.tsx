@@ -1,7 +1,7 @@
 import { useState, useMemo, useRef } from 'react';
 import type { Page } from '../App';
 
-const WHATSAPP_NUMBER = '2348124026524';
+const WHATSAPP_NUMBER = '243812402652';
 
 interface Product {
   id: number;
